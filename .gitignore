@@ -96,6 +96,7 @@ local.properties
 .gradle
 .idea
 
+.iml
 build
 out
 
