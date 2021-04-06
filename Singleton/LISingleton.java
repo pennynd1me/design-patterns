@@ -1,5 +1,3 @@
-package Singleton;
-
 import java.util.Objects;
 
 // 2. Lazy Initialization (늦은 초기화 방식)

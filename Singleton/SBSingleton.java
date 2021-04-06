@@ -1,5 +1,3 @@
-package Singleton;
-
 // 1-1. Static Block Initialization
 public class SBSingleton {
     //private static 으로 선언

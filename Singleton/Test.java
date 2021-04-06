@@ -1,5 +1,3 @@
-package Singleton;
-
 public class Test {
 
 //    EISingleton eiSingleton;

@@ -1,5 +1,3 @@
-package Singleton;
-
 // 1. Eager Initialization (이른 초기화 방식)
 public class EISingleton {
     //private static 으로 필드 선언

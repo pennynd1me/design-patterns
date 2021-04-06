@@ -1,5 +1,3 @@
-package Singleton;
-
 // 3. Bill Pugh Initialization on demand holder idiom (holder에 의한 초기화)
 public class BPSingleton {
     //private 생성자

@@ -1,5 +1,3 @@
-package Singleton;
-
 import java.util.Objects;
 
 // 2-2. Thread-safe Lazy Initialization + Double-checked locking 기법

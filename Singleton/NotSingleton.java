@@ -1,5 +1,3 @@
-package Singleton;
-
 public class NotSingleton {
     //default 필드 선언
     NotSingleton instance;

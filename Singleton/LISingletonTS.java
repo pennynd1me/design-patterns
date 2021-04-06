@@ -1,5 +1,3 @@
-package Singleton;
-
 import java.util.Objects;
 
 // 2-1. Thread-safe Lazy Initialization (스레드-안전한 늦은 초기화)
